@@ -1,0 +1,5 @@
+HealthMateBot/
+│ bot.py
+│ .env
+│ requirements.txt
+│ README.md
