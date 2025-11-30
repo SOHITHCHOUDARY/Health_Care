@@ -29,4 +29,16 @@ It remembers user profiles and wellness plans using **Supabase (PostgreSQL)** an
 | Config | dotenv |
 
 ---
+⚠️ Disclaimer
 
+HealthMateBot is not a medical device or a substitute for professional healthcare.
+The bot provides general health and wellness advice only, based on publicly available knowledge.
+
+It does not diagnose medical conditions
+
+It does not prescribe medication
+
+It does not replace doctor consultations or emergency services
+
+Always consult a qualified healthcare professional for any medical concerns, symptoms, or emergencies.
+By using this bot, you agree that the developers are not responsible for any health decisions or outcomes based on the bot's responses.
